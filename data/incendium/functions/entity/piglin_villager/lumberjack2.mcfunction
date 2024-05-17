@@ -14,5 +14,5 @@ data modify entity @s HandDropChances set value [0.2,0.0]
 attribute @s generic.armor base set 0
 attribute @s generic.armor_toughness base set 0
 attribute @s generic.attack_damage base set 0
-attribute @s generic.follow_range base set 0
+attribute @s generic.follow_range base set 16
 attribute @s generic.movement_speed base set 0.3499999940395355
