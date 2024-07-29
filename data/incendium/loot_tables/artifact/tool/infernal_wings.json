@@ -27,7 +27,7 @@
                 {
                   "attribute": "minecraft:generic.movement_speed",
                   "name": "speed",
-                  "amount": -0.05,
+                  "amount": 0.10,
                   "operation": "multiply_base",
                   "slot": "chest"
                 }
